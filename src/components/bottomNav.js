@@ -67,7 +67,7 @@ class BottomNav extends React.Component {
           </div>
         </div>
 
-        <h4>Copyright © 2021, Nhlanhla Mdakane</h4>
+        <h4></h4>
       </div>
     );
   }
